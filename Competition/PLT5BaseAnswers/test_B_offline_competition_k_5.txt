@@ -45,7 +45,7 @@ Aerosanie
 prawosławnego
 agrogeologia
 Krzyżakom
-Wielka Kopa Koprowa
+
 E-gazeta
 tak
 palców
@@ -172,7 +172,7 @@ na uczelniach wyższych
 Radio UWM FM
 w 2016
 dłużej niż ziemska
-Tunisu
+
 
 tak
 sód, magnez, glin, krzem
@@ -180,7 +180,7 @@ Peryfraza
 klarnecie
 roślin
 
-Edmund Hillary . Edmund Percival Hillary
+
 z Francją
 
 
@@ -212,7 +212,7 @@ republiką
 Re’uwen Riwlin
 `` nieustanne wędrowanie
 Aleksander II
-Henryk Kawiorski
+
 
 Isaac Newton
 Maria Anna z Pietruszyńskich Tyszkiewiczowa
@@ -448,7 +448,7 @@ Tor
 rezystor
 tak
 piaskowego
-0,1 t
+
 dramat, komedia
 Herakles
 męski
@@ -568,7 +568,7 @@ klinowym
 mysz leśna, mysz zaroślowa,
 1500
 
-III
+
 Cajón
 protagonista
 `` lajkonik
@@ -856,7 +856,7 @@ Giuseppe Verdi
 tak
 mięsożerne
 `` Pianista ''
-Marusia
+
 rówieśników
 wykonywania działań arytmetycznych
 Orion Multi-Purpose
@@ -876,7 +876,7 @@ Houtman Abrolhos
 Termostat akwarystyczny
 `` Jezioro Gryżyńskie
 Aerarii
-Abbad II al-Mutadid
+
 do nieba
 
 boginią płodności ziemi, urodzaj
@@ -940,7 +940,7 @@ tak
 1/360
 293
 
-Izraela
+
 lewa
 Józef Wittlin
 Abela
@@ -1001,7 +1001,7 @@ Mimbla
 Hossa
 1926
 `` օ '',
-Seszeli
+
 tak
 Lemiesz
 Eustachy Talarski
@@ -1039,7 +1039,7 @@ ujawnienie swych właściwych pragnień
 głowę
 `` diecezjalne ''
 pięć
-Słowacji
+
 tak
 `` Gazeta Robotnicza ''
 większa niż 10 000 m
@@ -1111,7 +1111,7 @@ za rzeką i górą
 1920
 Albrechta Hohenzollerna
 tak
-Violettę Villas
+
 na Andach
 Śródziemnym
 jednokomórkowe
@@ -1138,7 +1138,7 @@ tak
 Rosją i Chinami
 Pawła Lipowczana
 membranofony
-jeden
+
 Guldbagge
 8 lipca 1576
 nie
@@ -1247,7 +1247,7 @@ Jezioro Konstanckie
 w Sanoku
 
 Jan III Sobieski
-Waszyngton
+
 pomiędzy budynkami dwóch bibliotek: greckiej i łacińskiej
 
 ITS
@@ -1438,7 +1438,7 @@ Kanady
 Gustaf Geijerstam
 majora
 w Atenach
-Karin Stanek
+
 Hansa Christiana Andersena
 chór muzyczny
 ostrosłupy
@@ -1464,7 +1464,7 @@ Umundurowanie funkcjonariuszy Służby Celnej
 Francji
 żółtym, pomarańczowym lub czerwonym
 Hans Christian Andersen
-1798
+
 nieprosz, Nieprasz,
 Andrzej Szczypiorski
 Noc długich noży
@@ -1472,7 +1472,7 @@ romantyzmu
 „Litwos”
 pomarańczowy
 areozolami atmosferycznymi
-Jest synem
+
 powierzchniowej ( orleańskiej) i
 Rekonwalescencja
 remisja to okresowe ustąpienie objawów
@@ -1497,7 +1497,7 @@ Chicago
 z Indii, Australii, Nowej Gwinei i
 Rafael Santi
 Zschopau
-1879
+
 Palatium królewskie w Goslarz
 
 Włoch
@@ -1695,7 +1695,7 @@ tak
 Riczard Siergiejewicz Owinnikow
 rin
 mono- czy poligamiczne
-czterech
+
 Organizacji ZHP
 
 disażio
@@ -1715,7 +1715,7 @@ Albert Camus
 Perforowanie
 od 2 do 4
 Zap Mama
-1864
+
 Dior Frères
 `` „Tosce”
 misjonarz-apostoł Konstantemu
@@ -1765,7 +1765,7 @@ Newtona
 
 standardowych
 12
-Łacina ludowa
+
 Pablo Escobara
 Krystian Zimerman
 Francisco Goi
@@ -1887,7 +1887,7 @@ brązu
 Zbigniew Preisner
 święty Mikołaj
 Alfred Nobel
-Quinn
+
 
 w Dęblinie
 tak
@@ -2043,7 +2043,7 @@ romantyzmu
 w Sabaudii i Piemoncie
 nie
 Ferdinand Foch
-VIII
+
 lutni
 sześcianem
 Order Zaszczytnej Służby
@@ -2318,7 +2318,7 @@ Psychoakustyka, akustyka
 Laomedonta
 Listopadowym
 Dendroklimatologia
-marketingowy
+
 Alphecca
 Charon
 tak
@@ -2423,7 +2423,7 @@ A12 ''
 
 Hawaiʻi, Oʻ
 Amarantowa Wstążka lub Amar
-9
+
 Spaghetti
 Czardasza
 kalafior

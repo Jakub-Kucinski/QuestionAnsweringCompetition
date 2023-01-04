@@ -91,7 +91,7 @@ nad Morzem Śródziemnym
 M. Buczek
 Ludwig van Beethoven
 Zabójstwo w afekcie
-jeden
+dwa wyrazy
 głębokie warstwy skóry palców i sromu
 liściastych
 
@@ -115,7 +115,7 @@ Madrytu
 „Zasłużony Górnik Polski Ludowej
 Pilica
 
-liściaste
+iglaste
 komputerowej, filmowej
 pięć
 tak
@@ -125,7 +125,7 @@ w Waszyngtonie
 Kulik wielki
 1749
 Kalifornii
-obniżonej
+podwyższonej ciepłoty ciała
 
 w Tulonie
 Władysław Gomułka
@@ -142,7 +142,7 @@ Cyprys wiecznie zielony
 tak
 wschód
 na jabłkach i gruszkach
-wysokiej
+wysokiej skali
 po II wojnie światowej
 nimbem
 tak
@@ -178,7 +178,7 @@ tak
 sód, magnez, glin, krzem
 Peryfraza
 klarnecie
-roślin
+zwierząt
 
 Edmund Hillary . Edmund Percival Hillary
 z Francją
@@ -250,7 +250,7 @@ w Krakowie
 
 1917
 Aten
-dwa różne państwa
+różne nazwy tego samego państwa w Afryce
 Wenezueli
 „Polowanie na muchy”
 tak
@@ -376,7 +376,7 @@ około 21-22 czerwca
 Jan Paweł I
 Interpunkcja
 Hiszpania
-kaczek
+polska rasa kur
 Pediatria
 tak
 Sonda
@@ -417,7 +417,7 @@ po II wojnie światowej
 skrzypcach Guarneriego
 Ellen Hutchins
 Szwecji
-za dużo
+płacić za mało
 
 Galen
 w Pjongczangu
@@ -449,9 +449,9 @@ rezystor
 tak
 piaskowego
 0,1 t
-dramat, komedia
+misterium
 Herakles
-męski
+głos męski
 Śródziemnym
 Datowanie bezwzględne
 króla Gustawa Adolfa
@@ -504,7 +504,7 @@ Grecji
 placebo
 
 trzynaście
-„Wesela”
+miejsce akcji „Chłopów”
 4
 Dekatyzacja
 Nemo
@@ -566,11 +566,11 @@ Michał Wołodyjowski herbu Korczak
 Proton, p
 klinowym
 mysz leśna, mysz zaroślowa,
-1500
+100
 
 III
 Cajón
-protagonista
+sprzymierzeniec
 `` lajkonik
 
 jaroszami
@@ -636,7 +636,7 @@ pijawka, skorpion,
 Ajzyk Samborek
 członek najniższej kasty
 Tallinna
-gad
+krzew
 1821-1894
 Marcello Mastroianni
 tak
@@ -695,7 +695,7 @@ tak
 
 `` kapitulacja ''
 Dom panujący
-muzyczny
+utwór muzyczny
 Chlestakow
 Tuhaj-bejowicz
 Bohdan Zenobi Chmielnicki
@@ -703,7 +703,7 @@ w Czechach
 
 w Polsce
 Płowce
-pacjent
+choroba
 Rudyard Kipling
 gen. Walter Bedell Smith
 
@@ -765,7 +765,7 @@ znaki drogowe
 Marsa
 Adolf Hitler
 Patricia Kennely
-rośliny roślinożerne
+zwierzęta roślinożerne
 
 „smorodinówka kresowa
 Berberowie
@@ -829,7 +829,7 @@ czerwony romb
 nie
 gruźlica
 manna ''
-alkoholu
+roztwór jodu w wodzie
 Nasłuchiwacz
 
 Robert Koch
@@ -854,7 +854,7 @@ Frederick Madison Smith
 USA
 Giuseppe Verdi
 tak
-mięsożerne
+zwierzę roślinożerne
 `` Pianista ''
 Marusia
 rówieśników
@@ -864,7 +864,7 @@ Okocim
 siedem
 nie
 jeden decygram
-gady
+ssaki
 Zaćma
 Opel
 samice alfa
@@ -952,7 +952,7 @@ tak
 Armilla
 nadrzewna
 Wał Atlantycki
-nie bezpośrednio w urzędzie skarbowym, tylko
+bezpośredni
 Przemysł II
 12 nierozstawionych drużyn
 w Pizie
@@ -979,7 +979,7 @@ wielką literę Q
 pociak
 Pierre Beaumarchais
 w Toruniu
-Irlandii
+mityczny król Brytanii
 distrofizmem
 łanowa
 Wernyhora
@@ -1025,8 +1025,8 @@ islamu
 
 Andrzej Wajda
 nie
-palnej
-Książę Pan i Księżna Pani
+siecznej
+przeciwnik tytułowego bohatera bajki „Rumcajs”
 z pogłoską
 The Occasional Oratorio
 Bolesław II Śmiały
@@ -1053,7 +1053,7 @@ Barometr
 
 USA
 Szwecji
-wywóz za granicę
+przywóz z zagranicy towarów
 skurczowe
 nie
 system
@@ -1114,7 +1114,7 @@ tak
 Violettę Villas
 na Andach
 Śródziemnym
-jednokomórkowe
+grzyby jedno-
 Jerzy Kawalerowicz
 gadem
 
@@ -1162,7 +1162,7 @@ Eudemos
 
 Braille
 Parc des Buttes Chaumont
-chińska
+japońska
 retinopatię barwnikową
 nie
 termistory
@@ -1195,7 +1195,7 @@ Kajuta, kabina
 Ukraińcy architekci z Zaporoża
 Modrzejewscy
 z Michaelem Jacksonem
-drewniany
+instrument dęty drewniany
 tarczycy
 tak
 Seul
@@ -1256,7 +1256,7 @@ tak
 Tonic
 Armatka wodna
 Królewiec
-dwie różne żarówki połączone są szeregowo
+natężenie prądu płynącego w każdej z nich jest jednakowe
 wszystkie obiekty posiadające masę oddziałują na siebie
 
 Stigghiole
@@ -1309,7 +1309,7 @@ Stęp
 Lwie Serce
 
 tak
-dotyczące ruchu przyspieszonego
+twierdzenie geometryczne
 Krzyżyk
 w Londynie
 Stanisław Sosabowski
@@ -1334,7 +1334,7 @@ W krążeniu płucnym ( małym
 Targowisko, plac targowy lub targi
 Szatan z siódmej klasy
 Jawa, Bali, Komo
-Wielkiej Brytanii
+region leżący we Francji
 tak
 tak
 fleur-de-lis
@@ -1344,7 +1344,7 @@ Jagiellonów
 
 tak
 Radio UWM FM
-bierne
+czynne prawo wyborcze
 nieuk
 Franz Joseph Haydn
 Szkółka sadownicza
@@ -1402,7 +1402,7 @@ tak
 Gall Anonim
 600 n.e.
 prądy w mięśniu sercowym
-podziemny
+grzyb naziemny
 Maria Rodziewiczówna
 Marek, Mateusz, Łukasz i Jan
 Hemoglobina
@@ -1441,7 +1441,7 @@ w Atenach
 Karin Stanek
 Hansa Christiana Andersena
 chór muzyczny
-ostrosłupy
+wielościany foremne
 arbuza
 Dom maklerskich lub banków prowadzących działalność makler
 opornik
@@ -1475,7 +1475,7 @@ areozolami atmosferycznymi
 Jest synem
 powierzchniowej ( orleańskiej) i
 Rekonwalescencja
-remisja to okresowe ustąpienie objawów
+ich nasilenie
 w 1928
 w Tanzanii
 radioorientacja sportowa
@@ -1507,7 +1507,7 @@ walutą na terenie Protektoratu
 „Bismarck”
 Czarnego
 
-szesnastkowy
+szóstkowy
 Feliks Mendelssohn
 Michael Apted
 infra-
@@ -1564,7 +1564,7 @@ Brasília
 funkcjonariusza policji służby operacyjno-roz
 Grenlandia
 
-Bieszczadów czy Gór Świętokrzyskich
+szczyty Bieszczadów
 `` Iliady ''
 Ram Gopal Varma
 w Barcelonie
@@ -1642,7 +1642,7 @@ Wesoła wdówka ''
 trzy
 
 Suwŏl
-wewnątrz ciała
+proteza umieszczana wewnątrz ciała
 Helios
 James Byron Dean
 rowerzysta
@@ -1657,7 +1657,7 @@ HMS Victory
 Wartą
 1990
 Wolej
-dziennik
+tygodnik
 Jan Kazimierz Siwek
 w Mediolanie
 jako `` '' próbę wyjaśnienia
@@ -1694,7 +1694,7 @@ Sabat
 tak
 Riczard Siergiejewicz Owinnikow
 rin
-mono- czy poligamiczne
+ptaki mono-
 czterech
 Organizacji ZHP
 
@@ -1724,7 +1724,7 @@ dromadery
 Adam Kazimierz Czartoryski i Izabela z
 
 czernina, czarnina, czarna pole
-zaręczonym
+znaczy być zaręczonym
 białym
 Sarajewo
 Louis Blériot XI
@@ -1757,7 +1757,7 @@ Maczuga
 Zenon z Kitionu
 1876
 1477–1489
-bakteryjna
+choroba wirusowa
 
 żółty lub pomarańczowy
 
@@ -1815,14 +1815,14 @@ doboru bazy przestrzeni
 tak
 holenderskiej
 mniej niż osiem
-flory
+przedstawiciel fauny
 od samego początku
 listopadowego
 Hans Cramer
 Franciszka z Asyżu
 Stephen Joshua Sondheim
 20
-owoców
+zestaw warzyw
 Kazimierz Jagiellończyk
 tak
 The Beatles
@@ -1844,7 +1844,7 @@ we Lwowie
 Podkomorzy
 Familia
 Jalu Kurek
-męski
+damski
 Perskiego
 Cazonci
 Magnetofon
@@ -1874,11 +1874,11 @@ XI
 Autostrada A1 ( Autostrada Słońca)
 z Kastylii i Andaluzji
 francuskiej
-metamorficzna
+osadowa
 Magdalence
 gitarze akustycznej
 organ państwowy, który we własnym imieniu w
-rodzaj kurtki
+nazwa ptaka zamieszkującego lasy dorzecza Amazonki
 1917
 
 piętnaście
@@ -1900,7 +1900,7 @@ Kekova
 wyższa od zera stopni Celsjusza
 węgla
 Choroba lokomocyjna
-sztuczna kończyna górna
+też sztuczna kończyna górna
 w katastrofie lotniczej
 Kabaret Starszych Panów” i „
 „pomimo czego”, „
@@ -1921,7 +1921,7 @@ niemieckojęzycznego
 człowiek wytwórca, twórca, człowiek pracy
 Bartolome Cristofori
 Nowej Zelandii
-
+Szkocji
 brytyjski fizyk Frederick Guthrie
 nie
 tak
@@ -1967,7 +1967,7 @@ Andrzej Karol Topiński
 szesnaście
 `` z nudów ''
 w Wielkiej Brytanii
-tygodnik, dwutygodnik, miesięcznik
+miesięcznik
 Arthur Griffith
 1226
 paprotki
@@ -1986,12 +1986,12 @@ Krzysztof Kieślowski
 w Ameryce Północnej
 
 nie
-bylina
+roślina jednoroczna
 w Brading
 we Lwowie, Budapeszcie, Krakowie i Warszawie
 1/299 792 458 s
 Józef Frank
-płynnym złotem
+czernidłem
 w bankach komercyjnych
 Morze Liguryjskie
 kawy na dole, śmietanki na
@@ -2108,7 +2108,7 @@ Juliusza Słowackiego
 złotego
 Mistrz i Małgorzata
 nie
-ona
+on
 Czerwonym
 XVIII
 
@@ -2208,7 +2208,7 @@ George Pan Cosmatos
 Chin
 Flicker-fixer
 nie
-wolniejsze
+wolniejsze od andante
 krachu
 
 za usiłowanie zabójstwa Johnny'ego
@@ -2274,7 +2274,7 @@ cechy istot żywych, rzeczy, zjawisk,
 Burbonów
 
 Republika
-pojedynczej
+rzeczowniki występujące tylko w liczbie mnogiej
 
 Ella Jane Fitzgerald
 lojalność, czystość ( biała) i
@@ -2286,11 +2286,11 @@ sześcian
 w Canadian Tennis Centre
 Pajsa
 
-medycyny
-dęty
+dział medycyny
+instrument strunowy szarpany
 1826
 owcy domowej
-w Bieszczadach
+Beskidach
 `` Yesterday '
 Antoine Laurent de Lavoisier
 Negryci
@@ -2461,7 +2461,7 @@ II
 ω. formula_1
 Rosji
 Adam Skwara
-Batmana
+bohater przemieniający się w Iron Mana
 Piastów
 Tępa Podkowa
 Maurice Ravel
@@ -2471,7 +2471,7 @@ od 7 stycznia 1876 do 30 czerwca 1917
 Huang He
 szachach
 Dubler oczu
-niechęć, wrogość, lęk wobec obcych
+niechęć
 niebieskiego
 Christiaan Huygens
 jedną parę równoległych
