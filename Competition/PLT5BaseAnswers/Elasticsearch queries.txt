@@ -1,0 +1,53 @@
+offline_competition_k_5_ners_Aprime1 - NER elastic search query:
+q = {"bool" : {
+            "should": {"match": {"article" : question}},
+            "must": {
+                "bool": {
+                    "should": [
+                        {"multi_match" : {
+                            "query" : ner,
+                            "fields" : ["title^2", "article"],
+                            "type": "phrase"
+                        }} for ner in ners
+                    ], 
+                    "minimum_should_match" : "1<50%"
+                }
+            }
+        }
+    }
+
+
+offline_competition_k_5_ners_Aprime2 - NER elastic search query:
+q = {"bool" : {
+            "should": {
+                "combined_fields" : {
+                    "query" : question,
+                    "fields" : [ "title^2", "article" ]
+                    }},
+            "must": {
+                "bool": {
+                    "should": [
+                        {"multi_match" : {
+                            "query" : ner,
+                            "fields" : ["title^2", "article"],
+                            "type": "phrase"
+                        }} for ner in ners
+                    ], 
+                    "minimum_should_match" : "1<50%"
+                }
+            }
+        }
+    }
+
+
+offline_competition_k_5_ners_Aprime3 - NER elastic search query:
+q = {"bool" : {
+            "should": {"match": {"article" : question}},
+            "must": {
+                "bool": {
+                    "should": [{"match_phrase": {"article": ner}} for ner in ners].extend(
+                        [{"match_phrase": {"title": ner}} for ner in ners]), 
+                    "minimum_should_match" : "1<50%"}
+            }
+        }
+    }
